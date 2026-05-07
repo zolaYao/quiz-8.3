@@ -6,8 +6,6 @@ My inspiration comes from the cinematic visual technique used in the movie *Arri
 
 I want to incorporate this specific aesthetic technique—contrasting massive static forms with microscopic dynamic interactions—into my project. It is a highly beneficial approach because it elevates the project from a simple technical exercise to a piece of generative art that evokes a strong emotional atmosphere and narrative tension.
 
-![Arrival BDO Scale Contrast 1](assets/arrival_scale_1.jpg)
-
 ![Arrival Scale Contrast - Ship and Humans](ReadMeImages/arrval_heptapods.png)
 ![Arrival Atmosphere - Poster](ReadMeImages/Arrival_poster.jpg)
 
